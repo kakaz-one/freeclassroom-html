@@ -1,5 +1,4 @@
-// データをインポート
-import { floors, days, dayNames, times, usedClassrooms } from './data.js';
+
 
 // データ構造：教室の使用状況を管理
 let classroomData = {};

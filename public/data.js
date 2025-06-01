@@ -577,11 +577,3 @@ const usedClassrooms = [
     {day: "金", time: "6", room: "5202"}
 ];
 
-// データをエクスポート
-export {
-    floors,
-    days,
-    dayNames,
-    times,
-    usedClassrooms
-}; 
